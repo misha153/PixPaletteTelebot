@@ -1,0 +1,5 @@
+colorpalette-master==0.0.7
+convacolor==0.9.3
+transliterate==1.10.2
+Pillow==9.4.0
+pyTelegramBotAPI==4.10.0
