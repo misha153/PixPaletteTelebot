@@ -13,8 +13,6 @@ Telegram bot created using my own module [convacolor](https://github.com/misha15
 `pip install -r requirements.txt`
 
 ## How the bot works
-
-## How the bot works
 *The only supported language is Russian*
 
 <img src="https://github.com/misha153/PixPaletteTelebot/blob/Presentation/image.png" width="400">
