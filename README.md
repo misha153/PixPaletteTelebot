@@ -15,4 +15,4 @@ Telegram bot created using my own module [convacolor](https://github.com/misha15
 ## How the bot works
 *The only supported language is Russian*
 
-![Image alt](https://github.com/misha153/PixPaletteTelebot/blob/Presentation/image.png)
+<img src="https://github.com/misha153/PixPaletteTelebot/blob/Presentation/image.png" width="500">
