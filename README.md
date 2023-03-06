@@ -2,7 +2,8 @@
 
 [![GitHub license](https://img.shields.io/github/license/misha153/PixPaletteTelebot)](https://github.com/misha153/PixPaletteTelebot)
 
-Telegram bot created using my own module `convacolor` and module of my friend `colorpaletet-master` for college project.
+# Information
+Telegram bot created using my own module [convacolor](https://github.com/misha153/convacolor) and module of my friend [colorpaletet-master](https://github.com/gejirz/colorpalette-master) for college project.
 
 ## Requirements
 > - [requirements.txt](requirements.txt) - requirements file
@@ -10,3 +11,7 @@ Telegram bot created using my own module `convacolor` and module of my friend `c
 ## To install all compiling requirements via `pip`:
 
 `pip install -r requirements.txt`
+
+## How the bot works
+
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
